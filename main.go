@@ -1,4 +1,5 @@
-package main // import "margo.sh"
+package main 
+// import "margo.sh"
 
 import (
 	"margo.sh/cmdpkg/margo"
